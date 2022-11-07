@@ -82,7 +82,7 @@ def question_04(test_funcs: List[Callable]):
         pass
     # Fill your answers here-------------------------
     # calculate result values
-    your_answer = 'your_answer'
+    your_answer = '15'
     # End your answer--------------------------------
 
     # Your explanation
